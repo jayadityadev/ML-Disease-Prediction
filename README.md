@@ -40,6 +40,15 @@ Disease_Prediction_Project/
 
 ## 🚀 How to Run
 
+### 0️⃣ Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/jayadityadev/ML-Disease-Prediction.git
+cd ML-Disease-Prediction
+```
+
 ### 1️⃣ Create a Virtual Environment
 
 It's recommended to use a virtual environment to manage dependencies. Run:
@@ -49,10 +58,10 @@ It's recommended to use a virtual environment to manage dependencies. Run:
 python -m venv .venv  
 
 # Activate the virtual environment  
-# 🖥 Windows  
+# Windows  
 .venv\Scripts\activate  
 
-# 🐧 macOS/Linux  
+# macOS/Linux  
 source .venv/bin/activate  
 ```
 
